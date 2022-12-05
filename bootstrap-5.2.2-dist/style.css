@@ -1,0 +1,15 @@
+*{
+    margin:0;
+    padding:0;
+    font-family: sans-serif;
+}
+.main{
+    height:100vh;
+    width:100%;
+    background:linear-gradient(to right,#9c27b0,#8ecdff);
+}
+nav{
+    width:80%;
+    margin:20px auto;
+    align-items: center;
+}
